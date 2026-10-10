@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "framework": "vite-react",
+  "sandbox": true,
+  "output_dir": "dist",
+  "source_files": [
+    "package.json",
+    "vite.config.js",
+    "index.html",
+    "src/main.jsx"
+  ],
+  "deploy_host": "github-pages",
+  "repository_prefix": "mlai-articles-fixture-"
+}
